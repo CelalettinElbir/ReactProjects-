@@ -250,3 +250,10 @@ table.table .avatar {
 .modal .modal-dialog {
     margin-top: 200px;
   }
+
+
+
+.flex{
+    display: flex;
+    justify-content: space-evenly;
+}
